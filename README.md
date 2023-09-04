@@ -18,7 +18,7 @@ From Banha College of Law, Banha, Overall Grade: Good
 
 ## Professional Experience 🚀
 
-## 1. furniture renovation [API]
+## 1. furniture renovation
 > Furniture Assessment: Examine furniture items to assess their condition, identifying areas that require repair, refinishing, or restoration.
 > Repair and Restoration: Perform necessary repairs, such as fixing loose joints, replacing damaged components, and addressing structural issues to ensure the furniture's stability and functionality.
 > Refinishing: Strip, sand, and refinish furniture surfaces, applying appropriate finishes, stains, and paints to achieve the desired appearance while preserving the piece's integrity.
